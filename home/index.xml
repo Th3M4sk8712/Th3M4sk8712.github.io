@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Nguyễn Khánh Ngọc</title>
+    <link>https://NgocNK0807.github.io/home/</link>
+    <description>Recent content in Homes on Nguyễn Khánh Ngọc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://NgocNK0807.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://NgocNK0807.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/about/</guid>
+      <description>About me Mình là Ngọc - lập trình viên ứng dụng di động, đã có khoảng thời gian kha khá gắn bó với công việc yêu máy tính hơn người yêu này (5&amp;frasl;2014). May mà có người ấy chịu nổi, không giờ ế vêu mồm các bác ạ 🤣
+Do lúc còn đi học mình rất nghiện game (đến giờ đang tái nghiện) nên đã bước chân vào con đường lập trình ma giáo khi nào không hay 😰</description>
+    </item>
+    
+    <item>
+      <title>Working experience</title>
+      <link>https://NgocNK0807.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/publications_selected/</guid>
+      <description>2016 - Hiện tại Công ty: Appota
+Vị trí: Lập trình viên IOS.
+Mô tả công việc:
+ Phát triển và bảo trì các sản phẩm của công ty.
+ Hỗ trợ cho các đội phát triển ứng dụng di động khác: React Native, Android.
+ Hỗ trợ đào tạo, tuyển dụng các vị trí lập trình viên IOS.
+  2014 - 2016 Công ty: V-Next Software
+Vị trí: Lập trình viên IOS, Android.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://NgocNK0807.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://NgocNK0807.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://NgocNK0807.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://NgocNK0807.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://NgocNK0807.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/teaching/</guid>
+      <description> Hệ điều hành  Windows MAC  Ngôn ngữ lập trình và môi trường phát triển  Java (Android) Kotlin Objective – C Swift Eclipse Android Studio XCode  Cơ sở dữ liệu  MySQL SQLite Realm  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://NgocNK0807.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0700</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://NgocNK0807.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://NgocNK0807.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
