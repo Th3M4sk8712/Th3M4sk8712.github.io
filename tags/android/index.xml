@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Nguyễn Khánh Ngọc</title>
+    <link>https://Th3M4sk8712.github.io/tags/android/</link>
+    <description>Recent content in android on Nguyễn Khánh Ngọc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Th3M4sk8712.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seekboard</title>
+      <link>https://Th3M4sk8712.github.io/project/android_seekboard/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Th3M4sk8712.github.io/project/android_seekboard/</guid>
+      <description>You can also use it as a free-running app, auction application, mail-order application, and you can also follow celebrities, fashion leaders, etc. You can enjoy the content of followers and friends each time you visit Seekboard.</description>
+    </item>
+    
+    <item>
+      <title>Crowd Bytes</title>
+      <link>https://Th3M4sk8712.github.io/project/android_crowbytes/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Th3M4sk8712.github.io/project/android_crowbytes/</guid>
+      <description>Crowd Bytes is social networking mobile application with Gamification based on rating, Byte Score along with personal and group Chats, Location based Crowd alerts &amp;amp; post lost and found Living and Non-Living things.</description>
+    </item>
+    
+    <item>
+      <title>Coolio – Gay Dating &amp; Chat</title>
+      <link>https://Th3M4sk8712.github.io/project/android_coolio/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Th3M4sk8712.github.io/project/android_coolio/</guid>
+      <description>You can find gay guys in your area by GPS. Chat, Friend list, Footprint and Block&amp;hellip; (Android)</description>
+    </item>
+    
+  </channel>
+</rss>
